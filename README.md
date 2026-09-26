@@ -1,13 +1,13 @@
 ![Amotz Baruch](assets/profile-header.svg)
 
-**Java / Spring Boot · Flutter · C / C++ · Python**  
+**Java · C / C++ · Python · SQL**  
 B.Sc. Computer Science, The Open University of Israel · Haifa, Israel
 
 [LinkedIn](https://www.linkedin.com/in/amotz-baruch-63593919a) · [Email](mailto:amotzbr@gmail.com)
 
 ## Engineering focus
 
-I build backend services, mobile applications and hardware-connected products. My work spans application code, embedded firmware and hands-on prototyping, with an emphasis on connecting the layers into a working product.
+I develop software across backend services, systems programming and networked applications, with hands-on work in Java, C/C++, Python and SQL. My projects span application code, embedded firmware and hardware integration, with an emphasis on turning software into working products.
 
 I'm the **Founder & Full-Stack Engineer at ChipPaw**. I completed my **B.Sc. Computer Science in May 2026**, and speak Hebrew (native), English and Spanish (full professional proficiency).
 
