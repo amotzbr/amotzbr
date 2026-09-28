@@ -7,7 +7,7 @@ The Open University of Israel · Haifa, Israel
 
 ## About
 
-I build software across operating systems, networked applications, authentication and connected products. My public projects show hands-on C/C++, Python and Java work. I founded ChipPaw and built a working prototype connecting a microchip scanner, Flutter app and Java/Spring Boot backend.
+I build software from low-level systems to user-facing products. My public work includes xv6 kernel extensions, a C++/Python client-server messenger, Java applications and authentication experiments. I founded ChipPaw and developed a prototype connecting a microchip scanner, Flutter app and Java/Spring Boot backend.
 
 ## ChipPaw
 
