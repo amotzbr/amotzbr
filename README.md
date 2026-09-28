@@ -7,9 +7,7 @@ The Open University of Israel · Haifa, Israel
 
 ## About
 
-I build software across applications, backend services, systems programming and connected products. My hands-on work spans Java, C/C++, Python, SQL, networking, authentication, mobile integration and embedded firmware.
-
-I'm the **Founder & Full-Stack Engineer at ChipPaw**. I completed my **B.Sc. Computer Science in May 2026**, and speak Hebrew (native), English and Spanish (full professional proficiency).
+I build software across operating systems, networked applications, authentication and connected products. My public projects show hands-on C/C++, Python and Java work. I founded ChipPaw and built a working prototype connecting a microchip scanner, Flutter app and Java/Spring Boot backend.
 
 ## ChipPaw
 
