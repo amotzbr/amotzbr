@@ -1,13 +1,13 @@
 ![Amotz Baruch](assets/profile-header.svg)
 
-**Java · C / C++ · Python · SQL**  
-B.Sc. Computer Science, The Open University of Israel · Haifa, Israel
+**Software Engineer · B.Sc. Computer Science**  
+The Open University of Israel · Haifa, Israel
 
 [LinkedIn](https://www.linkedin.com/in/amotz-baruch-63593919a) · [Email](mailto:amotzbr@gmail.com)
 
-## Engineering focus
+## About
 
-I develop software across backend services, systems programming and networked applications, with hands-on work in Java, C/C++, Python and SQL. My projects span application code, embedded firmware and hardware integration, with an emphasis on turning software into working products.
+I build software across applications, backend services, systems programming and connected products. My hands-on work spans Java, C/C++, Python, SQL, networking, authentication, mobile integration and embedded firmware.
 
 I'm the **Founder & Full-Stack Engineer at ChipPaw**. I completed my **B.Sc. Computer Science in May 2026**, and speak Hebrew (native), English and Spanish (full professional proficiency).
 
@@ -54,9 +54,11 @@ I'm the **Founder & Full-Stack Engineer at ChipPaw**. I completed my **B.Sc. Com
 
 ## Technical toolkit
 
-| Area | Technologies |
+| Area | Technologies and experience |
 | --- | --- |
+| Languages | Java, C, C++, Python, SQL, Dart; x86 assembly (coursework) |
+| Computer science | Algorithms and data structures, OOP, design patterns, operating systems, computer networks, concurrency; AI and data mining coursework |
 | Backend & data | Java 21, Spring Boot 3, REST APIs, JPA / Hibernate, PostgreSQL, SQLite, Flyway |
-| Mobile & integration | Flutter, Dart, BLE, Firebase Cloud Messaging, Google sign-in |
-| Systems & networking | C, C++, Linux, xv6, TCP / UDP, multithreading, binary protocols |
-| Tools & foundations | Git, GitHub, Maven, Postman, unit testing, OOP, design patterns |
+| Systems, networking & security | Linux, xv6, TCP / UDP, binary protocols, authentication experiments |
+| Mobile & hardware integration | Flutter, BLE, Firebase Cloud Messaging, embedded firmware and hardware prototyping |
+| Tools | Git, GitHub, Maven, Postman, unit testing |
