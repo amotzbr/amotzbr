@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-<title id="title">Amotz Baruch</title><desc id="desc">Amotz Baruch, Software Engineer. Backend, mobile and systems.</desc>
+<title id="title">Amotz Baruch</title><desc id="desc">Amotz Baruch, Software Engineer and B.Sc. Computer Science graduate of The Open University of Israel.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10283d"/><stop offset="1" stop-color="#194969"/></linearGradient></defs>
 <rect width="1200" height="240" rx="16" fill="url(#bg)"/>
 <rect x="42" y="44" width="5" height="150" rx="2.5" fill="#6dd4ca"/>
 <text x="74" y="114" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700">Amotz Baruch</text>
 <text x="76" y="157" fill="#c6dce9" font-family="Arial,Helvetica,sans-serif" font-size="24">Software Engineer</text>
-<text x="76" y="190" fill="#85b8d4" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">BACKEND / MOBILE / SYSTEMS</text>
+<text x="76" y="190" fill="#85b8d4" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.5">B.SC. COMPUTER SCIENCE · THE OPEN UNIVERSITY OF ISRAEL</text>
 <g fill="none" stroke="#6dd4ca" stroke-width="2" opacity="0.35"><path d="M865 50h145v55h95"/><path d="M910 88h65v80h155"/><path d="M830 130h110v60h80"/><path d="M1010 50v-30h90"/><circle cx="865" cy="50" r="6"/><circle cx="910" cy="88" r="6"/><circle cx="830" cy="130" r="6"/><circle cx="1105" cy="105" r="6"/><circle cx="1130" cy="168" r="6"/><circle cx="1020" cy="190" r="6"/></g>
 </svg>
